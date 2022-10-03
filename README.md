@@ -2,5 +2,5 @@
 
 A simple snake game made with Vue using only HTML, JS and css
 
-##Demo
+## Demo
 https://vue-snake-game.netlify.app/
